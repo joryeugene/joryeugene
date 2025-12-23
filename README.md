@@ -1,13 +1,6 @@
-```
-                       _
-                      (_) ___  _ __ _   _
-                      | |/ _ \| '__| | | |
-                      | | (_) | |  | |_| |
-                     _/ |\___/|_|   \__, |
-                    |__/            |___/
-```
-
 <div align="center">
+
+# jory
 
 **Full-Stack Engineer** | Minnesota, USA
 
