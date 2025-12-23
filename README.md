@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-   _
-  (_) ___  _ __ _   _
-  | |/ _ \| '__| | | |
-  | | (_) | |  | |_| |
- _/ |\___/|_|   \__, |
-|__/            |___/
+    _
+   (_) ___  _ __ _   _
+   | |/ _ \| '__| | | |
+   | | (_) | |  | |_| |
+  _/ |\___/|_|   \__, |
+ |__/            |___/
 ```
 
 **Full-Stack Engineer** | Minnesota, USA
@@ -25,4 +25,8 @@ Building interactive, high-performance applications. Scaled real-time multiplaye
 
 ---
 
+<div align="center">
+
 [Website](http://jorypestorious.com/) • [GitHub](https://github.com/joryeugene) • [LinkedIn](https://linkedin.com/in/jorypestorious)
+
+</div>
