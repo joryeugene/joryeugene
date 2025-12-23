@@ -27,6 +27,6 @@ $ whoami
 
 <div align="center">
 
-[Website](http://jorypestorious.com/) • [GitHub](https://github.com/joryeugene) • [LinkedIn](https://linkedin.com/in/jorypestorious)
+[Website](http://jorypestorious.com/) • [GitHub](https://github.com/joryeugene) • [LinkedIn](https://www.linkedin.com/in/jory-fullstack-engineer/)
 
 </div>
