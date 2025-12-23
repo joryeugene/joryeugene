@@ -13,9 +13,14 @@
 
 </div>
 
-Building interactive, high-performance applications. Scaled real-time multiplayer physics game to 47M+ downloads. Master's in Education drives passion for creating intuitive, learnable systems.
+```bash
+$ whoami
+> Building interactive, high-performance applications
+> Scaled real-time multiplayer physics game to 47M+ downloads
+> Master's in Education drives passion for intuitive, learnable systems
+```
 
----
+<div align="center">· · ·</div>
 
 ## Writing
 
@@ -23,7 +28,7 @@ Building interactive, high-performance applications. Scaled real-time multiplaye
 - [AI Engineer World's Fair 2025: Takeaways & Spec](http://jorypestorious.com/blog/ai-engineer-spec/index.html)
 - [AI-Amplified Development](http://jorypestorious.com/ai-dev-tooling-presentation/)
 
----
+<div align="center">· · ·</div>
 
 <div align="center">
 
