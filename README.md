@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-    _
+   _
    (_) ___  _ __ _   _
    | |/ _ \| '__| | | |
    | | (_) | |  | |_| |
@@ -24,9 +24,11 @@ $ whoami
 
 ## Writing
 
+- [Before Building Complex Architectures, Try Natural Language](http://jorypestorious.com/blog/natural-language-first/index.html)
+- [The Articulation Bottleneck](http://jorypestorious.com/blog/articulation-bottleneck/index.html)
+- [Friction Economy: Unconscious Productivity Drains](http://jorypestorious.com/blog/friction-economy/index.html)
 - [Terminal Velocity: CLI-First AI Development](http://jorypestorious.com/blog/terminal-velocity/index.html)
-- [AI Engineer World's Fair 2025: Takeaways & Spec](http://jorypestorious.com/blog/ai-engineer-spec/index.html)
-- [AI-Amplified Development](http://jorypestorious.com/ai-dev-tooling-presentation/)
+- [The AI Gap: Why Leaders Struggle to Equip Their Engineers](http://jorypestorious.com/blog/trust-your-engineers/index.html)
 
 <div align="center">· · ·</div>
 
