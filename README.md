@@ -24,10 +24,10 @@ $ whoami
 
 ## Writing
 
-- [Before Building Complex Architectures, Try Natural Language](http://jorypestorious.com/blog/natural-language-first/index.html)
 - [The Articulation Bottleneck](http://jorypestorious.com/blog/articulation-bottleneck/index.html)
-- [Friction Economy: Unconscious Productivity Drains](http://jorypestorious.com/blog/friction-economy/index.html)
 - [Terminal Velocity: CLI-First AI Development](http://jorypestorious.com/blog/terminal-velocity/index.html)
+- [Friction Economy: Unconscious Productivity Drains](http://jorypestorious.com/blog/friction-economy/index.html)
+- [Before Building Complex Architectures, Try Natural Language](http://jorypestorious.com/blog/natural-language-first/index.html)
 - [The AI Gap: Why Leaders Struggle to Equip Their Engineers](http://jorypestorious.com/blog/trust-your-engineers/index.html)
 
 <div align="center">· · ·</div>
