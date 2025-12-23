@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
    _
   (_) ___  _ __ _   _
@@ -8,6 +10,8 @@
 ```
 
 **Full-Stack Engineer** | Minnesota, USA
+
+</div>
 
 Building interactive, high-performance applications. Scaled real-time multiplayer physics game to 47M+ downloads. Master's in Education drives passion for creating intuitive, learnable systems.
 
