@@ -2,7 +2,7 @@
 
 # jory
 
-**Full-Stack Engineer** | Minnesota, USA
+**Full-Stack Engineer** | USA
 
 </div>
 
