@@ -17,8 +17,8 @@ $ whoami
 
 ## Writing
 
+- [Verified Context Is the Moat](http://jorypestorious.com/blog/knowledge-sidecar/index.html)
 - [Edit Database Tables Like Vim Buffers](http://jorypestorious.com/blog/dadbod-grip/index.html)
-- [The Knowledge Sidecar: Verified Context Is the Moat](http://jorypestorious.com/blog/knowledge-sidecar/index.html)
 - [Protection Emerged, Verification Did Not](http://jorypestorious.com/blog/emergent-religion/index.html)
 - [Before Building Complex Architectures, Try Natural Language](http://jorypestorious.com/blog/natural-language-first/index.html)
 - [Friction Economy: Unconscious Productivity Drains in Development Workflows](http://jorypestorious.com/blog/friction-economy/index.html)
