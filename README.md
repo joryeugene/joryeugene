@@ -17,6 +17,7 @@ $ whoami
 
 ## Writing
 
+- [Twelve Keyboards Later](https://jorypestorious.com/blog/endgame-keyboard/)
 - [Verified Context Is the Moat](https://jorypestorious.com/blog/knowledge-sidecar/)
 - [Edit Database Tables Like Vim Buffers](https://jorypestorious.com/blog/dadbod-grip/)
 - [Protection Emerged, Verification Did Not](https://jorypestorious.com/blog/emergent-religion/)
