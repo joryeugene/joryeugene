@@ -17,6 +17,7 @@ $ whoami
 
 ## Writing
 
+- [What the Model Learned Not to Show](https://jorypestorious.com/blog/what-the-model-learned/)
 - [Twelve Keyboards Later](https://jorypestorious.com/blog/endgame-keyboard/)
 - [Verified Context Is the Moat](https://jorypestorious.com/blog/knowledge-sidecar/)
 - [Edit Database Tables Like Vim Buffers](https://jorypestorious.com/blog/dadbod-grip/)
