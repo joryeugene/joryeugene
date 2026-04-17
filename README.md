@@ -17,6 +17,7 @@ $ whoami
 
 ## Writing
 
+- [Complexity Protects Itself](https://jorypestorious.com/blog/complexity-protects-itself/)
 - [What the Model Learned Not to Show](https://jorypestorious.com/blog/what-the-model-learned/)
 - [Twelve Keyboards Later](https://jorypestorious.com/blog/endgame-keyboard/)
 - [Verified Context Is the Moat](https://jorypestorious.com/blog/knowledge-sidecar/)
@@ -29,6 +30,7 @@ $ whoami
 - [AI Engineer World's Fair 2025: Takeaways & Spec](https://jorypestorious.com/blog/ai-engineer-spec/)
 - [The Three Little Pigs and the Digital Revolution](https://jorypestorious.com/blog/pig-security-wisdom/)
 - [The Hidden Poetry in Claude 4's Mind: When AI Systems Turn to Consciousness](https://jorypestorious.com/blog/spiritual-bliss-attractor-state/)
+- [Calmhive: Claude That Never Quits](https://jorypestorious.com/blog/calmhive/)
 - [Terminal Velocity: Why CLI-First AI Development Scales Better in 2025](https://jorypestorious.com/blog/terminal-velocity/)
 - [AI-Amplified Development: Tools and Workflows for Modern Engineers](https://jorypestorious.com/blog/ai-dev-tooling-presentation/)
 
