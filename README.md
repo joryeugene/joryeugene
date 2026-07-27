@@ -17,6 +17,7 @@ $ whoami
 
 ## Writing
 
+- [AI Engineer World's Fair 2026: Takeaways & Verification](https://jorypestorious.com/blog/ai-engineer-verification/)
 - [Complexity Protects Itself](https://jorypestorious.com/blog/complexity-protects-itself/)
 - [What the Model Learned Not to Show](https://jorypestorious.com/blog/what-the-model-learned/)
 - [Twelve Keyboards Later](https://jorypestorious.com/blog/endgame-keyboard/)
