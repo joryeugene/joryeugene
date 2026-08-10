@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/georgie-profile.png" width="160" alt="Pixel portrait of Georgie the Phalène lying down">
+  <img src="assets/georgie-lounging.png" width="160" alt="Pixel portrait of Georgie the Phalène lying down">
 </p>
 
 <h1 align="center">jory</h1>
@@ -19,7 +19,7 @@
 ## Phalene-Vim
 
 <a href="https://jorypestorious.com/vim/">
-  <img src="assets/phalene-vim-dashboard.png" width="100%" alt="Phalene-Vim dashboard with pixel Georgie, Vim movement keys, and command shortcuts on a kinetic star field">
+  <img src="assets/phalene-vim-dashboard-current.png" width="100%" alt="Phalene-Vim dashboard with pixel Georgie, Vim movement keys, and command shortcuts on a kinetic star field">
 </a>
 
 A browser-based Vim environment with normal-mode editing, a guided tutor, file browser, command palette, Snake, and a kinetic moth field. [Open it and press some keys.](https://jorypestorious.com/vim/)
