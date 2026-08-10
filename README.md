@@ -1,17 +1,18 @@
 <p align="center">
-  <img src="assets/georgie-pixel.svg" width="96" alt="Pixel portrait of Georgie the Phalène">
+  <img src="assets/georgie-profile.png" width="112" alt="Pixel portrait of Georgie the Phalène">
 </p>
 
 <h1 align="center">jory</h1>
 
 <p align="center">
-  I build developer tools and interfaces that make complex systems easier to use.<br>
-  I scaled a real-time multiplayer physics game to 47M+ downloads.
+  I build developer tools, multiplayer systems, and interfaces that make complex software easier to use.<br>
+  I architected the multiplayer backend for a <a href="https://jorypestorious.com/process/#totally-reliable">physics sandbox with 50M+ downloads</a>.
 </p>
 
 <p align="center">
   <a href="https://jorypestorious.com/">website</a> ·
   <a href="https://www.linkedin.com/in/jory-fullstack-engineer/">linkedin</a> ·
+  <a href="https://jorypestorious.com/resume/Jory-Pestorious-Resume.pdf">résumé</a> ·
   <a href="mailto:jory@pestorious.com">email</a>
 </p>
 
