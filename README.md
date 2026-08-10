@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/georgie-profile.png" width="112" alt="Pixel portrait of Georgie the Phalène">
+  <img src="assets/georgie-profile.png" width="160" alt="Pixel portrait of Georgie the Phalène lying down">
 </p>
 
 <h1 align="center">jory</h1>
