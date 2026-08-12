@@ -6,7 +6,7 @@
 
 <p align="center">
   I build developer tools, multiplayer systems, and interfaces that make complex software easier to use.<br>
-  I architected the multiplayer backend for a <a href="https://jorypestorious.com/process/#totally-reliable">physics sandbox with 50M+ downloads</a>.
+  I helped work on <a href="https://jorypestorious.com/process/#totally-reliable">T.R.D.S. (yes, turds...), a physics sandbox with 50M+ downloads</a>.
 </p>
 
 <p align="center">
