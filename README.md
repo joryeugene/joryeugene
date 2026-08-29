@@ -1,38 +1,44 @@
-<p align="center">
-  <img src="assets/georgie-lounging.png" width="160" alt="Pixel portrait of Georgie the Phalène lying down">
-</p>
+<img align="right" src="assets/georgie-lounging.png" width="112" alt="Georgie the Phalène lounging">
 
-<h1 align="center">jory</h1>
+# Jory Pestorious
 
-<p align="center">
-  I build developer tools, multiplayer systems, and interfaces that make complex software easier to use.<br>
-  I helped work on <a href="https://jorypestorious.com/process/#totally-reliable">T.R.D.S. (yes, turds...), a physics sandbox with 50M+ downloads</a>.
-</p>
+I build ambitious software where the interface and the engineering carry equal weight.
 
-<p align="center">
-  <a href="https://jorypestorious.com/">website</a> ·
-  <a href="https://www.linkedin.com/in/jory-fullstack-engineer/">linkedin</a> ·
-  <a href="https://jorypestorious.com/resume/Jory-Pestorious-Resume.pdf">résumé</a> ·
-  <a href="mailto:jory@pestorious.com">email</a>
-</p>
+I co-founded We’re Five Games and led multiplayer for Totally Reliable Delivery Service, which passed 50 million downloads. [See the engineering trace.](https://jorypestorious.com/process/#totally-reliable)
 
-## Phalene-Vim
+[Website](https://jorypestorious.com/) · [Contact](https://jorypestorious.com/contact/) · [LinkedIn](https://www.linkedin.com/in/jory-fullstack-engineer/) · [Email](mailto:jory@pestorious.com)
 
-<a href="https://jorypestorious.com/vim/">
-  <img src="assets/phalene-vim-dashboard-current.png" width="100%" alt="Phalene-Vim dashboard with pixel Georgie, Vim movement keys, and command shortcuts on a kinetic star field">
-</a>
+<br clear="right">
 
-A browser-based Vim environment with normal-mode editing, a guided tutor, file browser, command palette, Snake, and a kinetic moth field. [Open it and press some keys.](https://jorypestorious.com/vim/)
-
-## Selected work
+## Projects
 
 ### [dadbod-grip.nvim](https://github.com/joryeugene/dadbod-grip.nvim)
 
-Edit database tables like Vim buffers. Stage mutations, preview SQL live, undo transactions, and move through schema relationships across PostgreSQL, SQLite, MySQL, DuckDB, and MotherDuck.
+<a href="https://github.com/joryeugene/dadbod-grip.nvim">
+  <img src="assets/dadbod-grip-consumer-triage.png" width="100%" alt="Dadbod Grip consumer incident triage with an expanded schema, filtered query pad, editable grid, staged delete, update, and clone rows, and generated Live SQL in Neovim">
+</a>
 
-### [Georgie the Phalène](https://github.com/joryeugene/georgie-phalene-codex-pet)
+Edit database tables like Vim buffers. Browse schemas, stage row mutations, inspect generated SQL, and work across PostgreSQL, SQLite, MySQL, DuckDB, and MotherDuck.
 
-An animated Codex pet with a complete action set, motion checks, and reusable tooling for spritesheet QA.
+### [Flight Deck Calendar](https://github.com/joryeugene/omarchy-calendar)
+
+<p align="center">
+  <a href="https://github.com/joryeugene/omarchy-calendar">
+    <img src="assets/flight-deck-calendar-week.png" width="72%" alt="Flight Deck Calendar Week view with fictional Google and Outlook events, an all-day lane, overlapping meetings, and current-time context">
+  </a>
+</p>
+
+A keyboard-first Google and Outlook calendar cockpit built into Omarchy. Read-only, locally cached, and backed by system-keyring credentials.
+
+### [Phalene-Vim](https://jorypestorious.com/vim/)
+
+<p align="center">
+  <a href="https://jorypestorious.com/vim/">
+    <img src="assets/phalene-vim-dashboard.jpg" width="72%" alt="Phalene-Vim main dashboard with Vim movement keys, command shortcuts, and Georgie on a kinetic star field">
+  </a>
+</p>
+
+A browser-based Vim environment with normal-mode editing, a guided tutor, file browser, command palette, Snake, and a kinetic moth field. [Open it and press some keys.](https://jorypestorious.com/vim/)
 
 ## Writing
 
