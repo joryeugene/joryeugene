@@ -15,7 +15,7 @@ I co-founded We’re Five Games and led multiplayer for Totally Reliable Deliver
 ### [dadbod-grip.nvim](https://github.com/joryeugene/dadbod-grip.nvim)
 
 <a href="https://github.com/joryeugene/dadbod-grip.nvim">
-  <img src="assets/dadbod-grip-consumer-triage.png" width="100%" alt="Dadbod Grip displays an expanded schema, a consumer incident query, five staged grid mutations, and the generated SQL in Neovim.">
+  <img src="assets/dadbod-grip-full-workspace.png" width="100%" alt="Dadbod Grip displays an expanded schema, a consumer incident query, five staged grid mutations, and the generated SQL in Neovim.">
 </a>
 
 Edit database tables like Vim buffers. Browse schemas, stage row mutations, inspect generated SQL, and work across PostgreSQL, SQLite, MySQL, DuckDB, and MotherDuck.
