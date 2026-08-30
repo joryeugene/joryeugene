@@ -2,8 +2,6 @@
 
 # Jory Pestorious
 
-I build ambitious software where the interface and the engineering carry equal weight.
-
 I co-founded We’re Five Games and led multiplayer for Totally Reliable Delivery Service, which passed 50 million downloads. [See the engineering trace.](https://jorypestorious.com/process/#totally-reliable)
 
 [Website](https://jorypestorious.com/) · [Contact](https://jorypestorious.com/contact/) · [LinkedIn](https://www.linkedin.com/in/jory-fullstack-engineer/) · [Email](mailto:jory@pestorious.com)
