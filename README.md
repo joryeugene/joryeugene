@@ -18,15 +18,17 @@ I co-founded We’re Five Games and led multiplayer for Totally Reliable Deliver
 
 Dadbod Grip turns database tables into Vim buffers. It keeps schema browsing, staged mutations, and generated SQL in one Neovim workspace across PostgreSQL, SQLite, MySQL, DuckDB, and MotherDuck.
 
-### [Flight Deck Calendar](https://github.com/joryeugene/omarchy-calendar)
+### [Flight Deck Calendar](https://calendar.pestorious.com/)
 
 <p align="center">
-  <a href="https://github.com/joryeugene/omarchy-calendar">
-    <img src="assets/flight-deck-calendar-week.png" width="72%" alt="Flight Deck Calendar displays Google and Outlook events across a Week view with an all-day lane, overlapping meetings, and current-time context.">
+  <a href="https://calendar.pestorious.com/">
+    <img src="assets/flight-deck-calendar-editor.png" width="100%" alt="Flight Deck Calendar displays a Week view with a selected event open in the right-side editor.">
   </a>
 </p>
 
-Flight Deck Calendar brings Google Calendar and Outlook into one keyboard-first Omarchy panel. It reads events into a local cache without writing back to either provider, and it stores tokens in the system keyring.
+Flight Deck Calendar brings Google Calendar and Outlook into one keyboard-first Omarchy panel. Accounts remain read-only until editing is enabled, and saved changes go directly to the selected provider. The right-side editor keeps the calendar visible while a local draft changes.
+
+[Product](https://calendar.pestorious.com/) · [Source](https://github.com/joryeugene/omarchy-calendar) · [Privacy](https://calendar.pestorious.com/privacy/) · [v1.1.0](https://github.com/joryeugene/omarchy-calendar/releases/tag/v1.1.0)
 
 ### [Phalene-Vim](https://jorypestorious.com/vim/)
 
